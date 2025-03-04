@@ -1,10 +1,6 @@
 'use client';
-import Image from "next/image";
 import styles from "./page.module.css";
-import { Button } from "@mui/material";
-import { useState } from "react";
 import PhaseRules from "./components/phaseRules";
-import { useGameStore } from "./store/gameStore";
 import PhaseTracker from "./components/phaseTracker";
 import StrategyAdvice from "./components/strategyAdvice";
 import CommandPointReminder from "./components/hiveTyrantCP";

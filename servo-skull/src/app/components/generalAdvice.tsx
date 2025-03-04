@@ -16,7 +16,7 @@ const GeneralAdvice = () => {
         <ul>
           <li>Tyranids have efficient, low cost units.</li>
           <li>Trap your opponent into committing units to clear your screens</li>
-          <li>Make sure your opponent can't hide on objectives.</li> 
+          <li>Make sure your opponent can&apos;t hide on objectives.</li> 
           <li>Counter attack and profit.</li> 
           <li>Always give too little, or too much. Never just enough</li>
           <li> </li>
@@ -26,8 +26,8 @@ const GeneralAdvice = () => {
 <h2>Focus on 1-2 Targets / Flanks</h2>
 <ul>
   <li>Stack buff to consistently remove 1-2 threats in any given turn.</li>
-  <li>"Remove" other units through move blocking and primary denial. </li>
-  <li>Focus on your "triangle" of primary..</li>
+  <li>&quot;Remove&quot; other units through move blocking and primary denial. </li>
+  <li>Focus on your &quot;triangle&quot; of primary..</li>
   <li></li>
 </ul> 
 </div>
@@ -35,9 +35,9 @@ const GeneralAdvice = () => {
       <h2>Charge Your Gribblies</h2> 
       <ul>
         <li>Charging a unit can easily give an 8 inch movement. </li>
-        <li>Forcing units to fall back or have to kill Gribblies effectively "kills" them for a turn. </li>
-        <li>Make sure unit doesn't consistently kill your unit.  </li>
-        <li>Don't be scared, but be wary.</li>
+        <li>Forcing units to fall back or have to kill Gribblies effectively &quot;kills&quot; them for a turn. </li>
+        <li>Make sure unit doesn&apos;t consistently kill your unit.  </li>
+        <li>Don&apos;t be scared, but be wary.</li>
         </ul>
       </div>
 
@@ -53,10 +53,10 @@ const GeneralAdvice = () => {
       <div>
         <h2>Shadows</h2>
       <ul>
-  <li>Most of the "fight" in a game is 1-2 turns.</li>
-  <li>Plan out when you will Shadow with your movement and your opponent's.</li>
-  <li>Always wait to see your opponent's secondaries.</li>
-  <li>It's a buff, but don't plan your entire game around a good Shadows.</li>
+  <li>Most of the &quot;fight&quot; in a game is 1-2 turns.</li>
+  <li>Plan out when you will Shadow with your movement and your opponent&apos;s.</li>
+  <li>Always wait to see your opponent&apos;s secondaries.</li>
+  <li>It&apos;s a buff, but don&apos;t plan your entire game around a good Shadows.</li>
 </ul>
 
       </div>
