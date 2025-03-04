@@ -5,7 +5,7 @@ const PhaseTracker = () => {
   const { phase, nextPhase, prevPhase } = useGameStore();
 
   return (
-    <div style={{ margin: "20px 0" }}>
+    <div style={{ margin: "20px 0", textAlign: "center" }}>
       <h2>Current Phase: {phase}</h2>
       <Button 
         variant="contained" 
