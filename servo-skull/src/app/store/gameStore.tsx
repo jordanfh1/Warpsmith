@@ -3,11 +3,9 @@ import { create } from "zustand";
 type Phase =
   | "Command Phase"
   | "Movement Phase"
-  | "Psychic Phase"
   | "Shooting Phase"
   | "Charge Phase"
-  | "Fight Phase"
-  | "Morale Phase";
+  | "Fight Phase";
 
 interface GameState {
   phase: Phase;
@@ -18,11 +16,9 @@ interface GameState {
 const phases: Phase[] = [
   "Command Phase",
   "Movement Phase",
-  "Psychic Phase",
   "Shooting Phase",
   "Charge Phase",
   "Fight Phase",
-  "Morale Phase",
 ];
 
 export const useGameStore = create<GameState>((set, get) => ({

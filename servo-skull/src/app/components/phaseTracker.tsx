@@ -19,7 +19,6 @@ const PhaseTracker = () => {
         variant="contained" 
         color="primary" 
         onClick={nextPhase} 
-        disabled={phase === "Morale Phase"}
         style={{ marginLeft: "10px" }}
       >
         Next Phase

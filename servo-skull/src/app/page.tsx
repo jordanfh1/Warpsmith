@@ -15,9 +15,16 @@ export default function Home() {
   return (
     <div className={styles.page}>
       <main className={styles.main}>
-        
 
 
+
+      <Image src="/servoskull.png" 
+      alt="Skull icon" 
+      width={100} 
+      height={100} 
+      />
+
+      <h1>Warhammer 40K Companion</h1>
         
             
             <PhaseTracker />
