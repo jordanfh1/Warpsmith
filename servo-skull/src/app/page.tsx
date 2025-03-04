@@ -7,6 +7,8 @@ import PhaseRules from "./components/phaseRules";
 import { useGameStore } from "./store/gameStore";
 import PhaseTracker from "./components/phaseTracker";
 import StrategyAdvice from "./components/strategyAdvice";
+import CommandPointReminder from "./components/hiveTyrantCP";
+
 
 
 
@@ -18,18 +20,13 @@ export default function Home() {
 
 
 
-      <Image src="/servoskull.png" 
-      alt="Skull icon" 
-      width={100} 
-      height={100} 
-      />
-
       <h1>Warhammer 40K Companion</h1>
         
             
             <PhaseTracker />
-            <StrategyAdvice />
             <PhaseRules />
+            <StrategyAdvice />
+            <CommandPointReminder />
            
 
 
