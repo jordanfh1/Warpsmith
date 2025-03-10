@@ -1,4 +1,4 @@
-'use client';
+'use client'
 import styles from "./page.module.css";
 import PhaseRules from "./components/phaseRules";
 import PhaseTracker from "./components/phaseTracker";
@@ -17,8 +17,8 @@ export default function Home() {
 
 
 
-      <h1>The Hive Mind</h1>
-      <h2>The Tyranid Companion</h2>
+      <h1 style={{ margin: "20px 0", textAlign: "center" }}>40K Companion</h1>
+      <h2 style={{ margin: "20px 0", textAlign: "center" }}>Servo Skull</h2>
         
             
             <PhaseTracker />
