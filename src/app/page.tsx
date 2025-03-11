@@ -1,11 +1,11 @@
 'use client'
 import React from "react";
 import styles from "./page.module.css";
-import PhaseRules from "./components/phaseRules";
-import PhaseTracker from "./components/phaseTracker";
-import StrategyAdvice from "./components/strategyAdvice";
-import CommandPointReminder from "./components/hiveTyrantCP";
-import GeneralAdvice from "./components/generalAdvice";
+import PhaseRules from "../components/phaseRules";
+import PhaseTracker from "../components/phaseTracker";
+import StrategyAdvice from "../components/strategyAdvice";
+import CommandPointReminder from "../components/hiveTyrantCP";
+import GeneralAdvice from "../components/generalAdvice";
 
 
 
